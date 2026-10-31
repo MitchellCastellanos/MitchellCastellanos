@@ -1,4 +1,4 @@
-# Hi, I'm Mitchell Castellanos 👋
+# Hi, I'm Mitchell Castellanos 
 
 **Software Developer | Montréal, Québec**
 
@@ -16,22 +16,22 @@ I build web applications focused on solving practical business problems. My expe
 
 **Tools & Practices:** Git · GitHub · REST APIs · OOP · Software Testing · CI/CD
 
-### 🚀 Currently Working On
+### Currently Working On
 
 - Strengthening my Java, Spring Boot and SQL skills.
 - Developing and improving real-world web applications.
 - Building stronger foundations in software architecture, automated testing and deployment.
 
-### 🎯 Looking for an Internship
+### Looking for an Internship
 
 I'm looking for a **software development internship in Montréal**, where I can contribute to real projects, collaborate with experienced developers and continue growing as a software engineer.
 
 Je suis également ouvert aux opportunités de stage en développement logiciel dans des équipes francophones au Québec.
 
-### 🌎 Languages
+### Languages
 
 English · Français · Español
 
-### 📫 Connect With Me
+### Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/mitchell-castellanos)
